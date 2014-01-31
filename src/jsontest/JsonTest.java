@@ -25,7 +25,7 @@ public class JsonTest {
         
         int size = array.size();
         System.out.println("Il y a " + size + " cd dans le catalogue");
-        
+        System.out.println("bravo j'ai fait un pull ");
         
     }
 }
